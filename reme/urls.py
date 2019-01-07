@@ -27,6 +27,6 @@ urlpatterns = [
                             'document_root': settings.STATIC_ROOT, }),
     path('api/', include('api.urls')),
     url(r'^$', TemplateView.as_view(template_name='index.html')),
-    url(r'^(?P<path>.*)$', serve, {
+    url(r'^(?P<path>favicon.ico|manifest.json|service-worker.js|precache-manifest.be9ae3d4bc4aabe55126cd728160ec38.js|asset-manifest.json)$', serve, {
                             'document_root': settings.EXTRAS_ROOT, }),
 ]
