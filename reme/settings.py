@@ -26,7 +26,7 @@ SECRET_KEY = 'sx5_)a^c&+bsoi%ljr+^c87yv@2!y--k!iub07ckzs-7*#t(c*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.degreat.co.uk', 'localhost', ]
 
 
 # Application definition
