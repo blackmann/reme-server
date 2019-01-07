@@ -1,1 +1,1 @@
-web: daphne -p $PORT reme.asgi:application -b 0.0.0.0 -v2
+web: waitress-serve --port=$PORT reme.wsgi:application
