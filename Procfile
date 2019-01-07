@@ -1,1 +1,1 @@
-web: daphne -p $PORT agapi.asgi:application -b 0.0.0.0 -v2
+web: daphne -p $PORT reme.asgi:application -b 0.0.0.0 -v2
