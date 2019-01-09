@@ -1,15 +1,15 @@
 {
   "main.css": "/static/css/main.1d502377.chunk.css",
-  "main.js": "/static/js/main.f6a89896.chunk.js",
-  "main.js.map": "/static/js/main.f6a89896.chunk.js.map",
-  "static/js/1.3adc98c0.chunk.js": "/static/js/1.3adc98c0.chunk.js",
-  "static/js/1.3adc98c0.chunk.js.map": "/static/js/1.3adc98c0.chunk.js.map",
+  "main.js": "/static/js/main.0fff33b4.chunk.js",
+  "main.js.map": "/static/js/main.0fff33b4.chunk.js.map",
+  "static/js/1.ebfa4c3a.chunk.js": "/static/js/1.ebfa4c3a.chunk.js",
+  "static/js/1.ebfa4c3a.chunk.js.map": "/static/js/1.ebfa4c3a.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/css/main.1d502377.chunk.css.map": "/static/css/main.1d502377.chunk.css.map",
   "static/media/sample.jpg": "/static/media/sample.e2c21f1a.jpg",
   "static/media/made-with-bulma--dark.png": "/static/media/made-with-bulma--dark.c9c9832e.png",
   "index.html": "/index.html",
-  "precache-manifest.79ecbf531350703692316c13df97441c.js": "/precache-manifest.79ecbf531350703692316c13df97441c.js",
+  "precache-manifest.23ef59543f019ebaf66e2db9cf050a2a.js": "/precache-manifest.23ef59543f019ebaf66e2db9cf050a2a.js",
   "service-worker.js": "/service-worker.js"
 }
